@@ -14,7 +14,7 @@ class Carro:
             print("Venda bloqueada! Falha na autenticidade ou vendedor não é o dono.")
 
 # ==========================================
-# TESTE: IMPOSTOR TENTANDO SE PASSAR PELO PROPRIETÁRIO
+# TESTE: IMPOSTOR TENTANDO SE PASSAR PELA PROPRIETÁRIA
 # ==========================================
 
 # 1. O carro pertence à Maria
